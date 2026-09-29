@@ -1,0 +1,28 @@
+{
+  "steps": [
+    {
+      "name": "ImportFBX",
+      "ok": true,
+      "detail": "2 meshes wired"
+    },
+    {
+      "name": "BP_PirateShip",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ShipScale",
+      "ok": true,
+      "detail": "raw_len=480.0 scale=8.333"
+    },
+    {
+      "name": "PlaceShip",
+      "ok": true,
+      "detail": "/Game/BLACKTIDE/Maps/L_BlackTide_Main"
+    }
+  ],
+  "created": [
+    "/Game/BLACKTIDE/Ship/Blueprint/BP_PirateShip"
+  ],
+  "errors": []
+}

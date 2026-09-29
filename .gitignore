@@ -1,0 +1,15 @@
+# --- BLACK TIDE .gitignore ---
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+*.sln
+*.slnx
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.pdb
+FileSync*

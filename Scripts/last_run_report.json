@@ -1,0 +1,36 @@
+{
+  "steps": [
+    {
+      "name": "MPC_Global",
+      "ok": true,
+      "detail": "8 scalar params"
+    },
+    {
+      "name": "StormProfiles",
+      "ok": true,
+      "detail": "6 profiles"
+    },
+    {
+      "name": "M_Master",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "MaterialInstances",
+      "ok": true,
+      "detail": "MI_Wood/MI_Metal/MI_Cloth"
+    },
+    {
+      "name": "M_Ocean",
+      "ok": true,
+      "detail": "Gerstner WPO"
+    },
+    {
+      "name": "Level",
+      "ok": true,
+      "detail": "/Game/BLACKTIDE/Maps/L_BlackTide_Main"
+    }
+  ],
+  "created": [],
+  "errors": []
+}
